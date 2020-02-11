@@ -24,29 +24,19 @@ The end of Open Source Day celebration was marked by the valedictory function. T
 
 ### Agenda of Open Source Day 2019
 
-| **Time        | Event Type               | Resource Person                                 | Location                   |
+Time        | Event Type               | Resource Person                                 | Location                   
 
-|------------ | -------------- | ----------------- | ----------- |
-
-| 9:00 - 9:30 | Inauguration |  --  | CS Seminar hall,
-A block, 3rd Floor |
-
-| 9:30 - 10:30 | Keynote Speech | Aneesh PV, Manager, Global Learning Service, Red Hat India | CS Seminar Hall,
-A block, 3rd Floor |
-
-| 11:00 - 13:30 | Workshop(Git & Github) | Deekshith Bellare from PayTM Bangalore. | EE&E Computer Centre, C block, 1st Floor |
-
-| 11:00 - 16:00 | Workshop(Ethical Hacking) | Sowmya L Joshi,(IIT certified ethical hacker) | CS Seminar Hall,A block, 3rd Floor |
-
-| 2:00 - 3:00 | Tech quiz(Contest) |  --  | OSL, A block, Ground Floor |
-
-| 3:00 - 3:30 | Reverse Search(Contest) |  --  | OSL, A block, Ground Floor |
-
-| 3:30 - 4:00 | Code Debugging and Dazzle code(Contest) |  --  | OSL, A block, Ground Floor |
-
-| 4:00 - 4:30 | Valedictory |  --  | CS Seminar hall,A block, 3rd Floor |
-
-| All day | Retro Pie Gaming |  --  | CCD |
+------------ | -------------- | ----------------- | ----------- 
+ 9:00 - 9:30 | Inauguration |  --  | CS Seminar hall,
+A block, 3rd Floor 
+ 9:30 - 10:30 | Keynote Speech | Aneesh PV, Manager, Global Learning Service, Red Hat India | CS Seminar Hall,
+A block, 3rd Floor 
+ 11:00 - 13:30 | Workshop(Git & Github) | Deekshith Bellare from PayTM Bangalore. | EE&E Computer Centre, C block, 1st Floor 
+ 11:00 - 16:00 | Workshop(Ethical Hacking) | Sowmya L Joshi,(IIT certified ethical hacker) | CS Seminar Hall,A block, 3rd Floor 
+ 2:00 - 3:00 | Tech quiz(Contest) |  --  | OSL, A block, Ground Floor | 3:00 - 3:30 | Reverse Search(Contest) |  --  | OSL, A block, Ground Floor 
+ 3:30 - 4:00 | Code Debugging and Dazzle code(Contest) |  --  | OSL, A block, Ground Floor 
+ 4:00 - 4:30 | Valedictory |  --  | CS Seminar hall,A block, 3rd Floor 
+ All day | Retro Pie Gaming |  --  | CCD 
 
 ## Gallery of Open Source Day 2019
 
