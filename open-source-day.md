@@ -8,7 +8,7 @@ The event was promoted for a week via osl social media accounts and also the off
 
 The day started off with the Inauguration function at 9:05am.The inauguration function took place in the gracious presence of our principal Dr. Sadashive Gowda, the HoD of the CSE department - Dr Ravikumar and also the faculty coordinators. We had our resource person Deekshith Bellare present - from PayTM, Bangalore- who addressed the gathering . We also had our principal and Hod address the gathering and give insights of the achievements of the OSL community of Vidyavardhaka College of Engineering.
 
-This was followed by speech by Sreevari SP who answered some frequently asked questions like What is OSL?, What we do at OSL?.
+This was followed by speech by Shreevari SP who answered some frequently asked questions like What is OSL?, What we do at OSL?.
 
 This was followed by the keynote speech delivered by Aneesh PV - Manager, Global Learning Service, Red Hat, India - which proved out to be very informative. The gathering learnt about Red Hat and a lot more from this session.
 
@@ -24,95 +24,31 @@ The end of Open Source Day celebration was marked by the valedictory function. T
 
 ### Agenda of Open Source Day 2019
 
-Time
+| **Time        | Event Type               | Resource Person                                 | Location                   |
 
-Event Type
+|------------ | -------------- | ----------------- | ----------- |
 
-Resource Person
+| 9:00 - 9:30 | Inauguration |  --  | CS Seminar hall,
+A block, 3rd Floor |
 
-Location
+| 9:30 - 10:30 | Keynote Speech | Aneesh PV, Manager, Global Learning Service, Red Hat India | CS Seminar Hall,
+A block, 3rd Floor |
 
-9:00 - 9:30
+| 11:00 - 13:30 | Workshop(Git & Github) | Deekshith Bellare from PayTM Bangalore. | EE&E Computer Centre, C block, 1st Floor |
 
-Inauguration
+| 11:00 - 16:00 | Workshop(Ethical Hacking) | Sowmya L Joshi,(IIT certified ethical hacker) | CS Seminar Hall,A block, 3rd Floor |
 
-CS Seminar hall,
+| 2:00 - 3:00 | Tech quiz(Contest) |  --  | OSL, A block, Ground Floor |
 
-A block, 3rd Floor
+| 3:00 - 3:30 | Reverse Search(Contest) |  --  | OSL, A block, Ground Floor |
 
-9:30 - 10:30
+| 3:30 - 4:00 | Code Debugging and Dazzle code(Contest) |  --  | OSL, A block, Ground Floor |
 
-Keynote Speech
+| 4:00 - 4:30 | Valedictory |  --  | CS Seminar hall,A block, 3rd Floor |
 
-Aneesh PV, Manager, Global Learning Service, Red Hat India
+| All day | Retro Pie Gaming |  --  | CCD |
 
-CS Seminar Hall,
-
-A block, 3rd Floor
-
-11:00 - 13:30
-
-Workshop
-
-(Git & Github)
-
-Deekshith Bellare from PayTM Bangalore.
-
-EE&E Computer Centre, C block, 1st Floor
-
-11:00 - 16:00
-
-Workshop
-
-(Ethical Hacking)
-
-Sowmya L Joshi,
-
-IIT certified ethical hacker
-
-CS Seminar Hall,
-
-A block, 3rd Floor
-
-2:00 - 3:00
-
-Tech quiz
-
-(Contest)
-
-OSL, A block, Ground Floor
-
-3:00 - 3:30
-
-Reverse Search
-
-(Contest)
-
-OSL, A block, Ground Floor
-
-3:30 - 4:00
-
-Code Debugging and Dazzle code
-
-(Contest)
-
-OSL, A block, Ground Floor
-
-4:00 - 4:30
-
-Valedictory
-
-CS Seminar hall,
-
-A block, 3rd Floor
-
-All day
-
-Retro Pie Gaming
-
-CCD
-
-Gallery of Open Source Day 2019
+## Gallery of Open Source Day 2019
 
 ![](https://lh3.googleusercontent.com/H4Ztff7JxHZummfeyGL-B1r11UYeIF0FF5O8TXmzGJ0OHSF5xzLiO-OVTAFxtESQlQF3fA0Gl7QwWgCBmaz1hVF7C5HXMrIMX6LG18y-Uk_C_1bBPtsYY9xTliDYqLuyNcZx6Qxk)![](https://lh4.googleusercontent.com/v7rkHZQqbM8qOXq8Z0XkS1VJ1HZPaT9gOCSBg-jleQSshz47NnXPtesvYKb6JLSzcRnkg7h1fT-QKR1LoMvmQMJZDhIFjhMf9esJYHmRoxDc7zwyao2oi_jZju_ElBMFL-tmc-ug)![](https://lh5.googleusercontent.com/klXyM9RjSDC-mnYo94h-PToO2EdunSx6gbHRfGW-VxPlPl1PTh6s4Kq8PdueV3CdF5OU0AuvrlRp4Wu94BHVkDzkIsY18bxtVOdw8HS3526VuMN1sc51AfBre-nuD4bwCQ707qNE)![](https://lh6.googleusercontent.com/fVingts_vJyF9pSfcSq-qqcaiHdJ_euI5BS8Udq04UUHesP_TiieG4l2TICT3dhzra81kF2DUmC2LCBJ420HOCkKFPdu9AeiOAMI0uUoGl2nDnSFqA5-i8Nzi230UG5fhv7GZrSe)
 
