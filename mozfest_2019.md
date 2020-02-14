@@ -9,4 +9,4 @@ There was a worldwide call for proposals under various domains such as Web Liter
 
 Our proposal “**Entropy**” is a project which aims to create stronger and secure passwords alongside overcoming the flaws of a traditional alphanumeric password generator. This could be done using the aid of Diceware. We presented our session to a very diverse group of people from various backgrounds and ethnicity. This helped us gain many perspectives and valuable feedback on our project on how to improve it and make it into a product for the real world.
 
-![](https://lh4.googleusercontent.com/CupqGjdNn-TbTViqZCzTdZfLyrTE0tsXEuugYbqpqiV4wpl1Ziu7AkGg8S0V-j0lgMf34BvKOO1e9sM4fJ4XbOjXFpaSDXJSgpTBrbh7HYGeT-BsMjQkXJfoAx0ngN6-Y_jorYeN =1000x)
+<img src="https://lh4.googleusercontent.com/CupqGjdNn-TbTViqZCzTdZfLyrTE0tsXEuugYbqpqiV4wpl1Ziu7AkGg8S0V-j0lgMf34BvKOO1e9sM4fJ4XbOjXFpaSDXJSgpTBrbh7HYGeT-BsMjQkXJfoAx0ngN6-Y_jorYeN" width="700"/>
