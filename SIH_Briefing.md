@@ -11,3 +11,7 @@ The one-hour session proved out to be fruitful and all the FAQs were answered.
 **Venue:** Open Source Lab
 
 **Date:** 6 Dec 2019
+
+![](brief1.jpeg)
+![](brief2.jpeg)
+![](brief3.jpeg)
