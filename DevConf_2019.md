@@ -1,57 +1,20 @@
 ## DevConf 19
+
 ### Report
+### About
+DevConf is the annual developer’s conference organised by Red Hat,India. The conference provides a platform to the FOSS community participants and enthusiasts to come together and engage in knowledge sharing activities through technical talks, workshops, panel discussions, hackathons and much more. 
+![](https://camo.githubusercontent.com/c311da1fe00eeb79803faec5b531f0b43a3e2458/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434302f302a7962643631647a396268486a7858375a)]
 
-_DevConf.IN is the annual developer’s conference organised by_ [_Red Hat_](https://redhat.com/)_, India. The conference provides a platform to the FOSS community participants and enthusiasts to come together and engage in knowledge sharing activities through technical talks, workshops, panel discussions, hackathons and much more. (Copied from DevConf website_ 😜_)_
+### Experience
+The two day conference held at Bangalore began sharp at 10 am and closed at 6pm in the evening. The first day began with a keynote speech and then progressed on with the days activities. Four students from OSL volenteered for this conference and represented Mozilla throughout the same. The students worked on Common Voice and Localisation and demonstrated the same at this conference,the participants got crowds to participate in huge numbers for their activities and demonstrations. After receiving active participation, the students began interacting with the crowd and learning further on peoples contribution to the conference and to the world of open source as well. Day 1 was successfully wrapped by 4 pm.
 
-![](https://miro.medium.com/max/1440/0*ybd61dz9bhHjxX7Z)
+![](https://camo.githubusercontent.com/5b6816d8085f74e6279ccaa8e81945f8138ad4e7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a316833784a376b6c695877696c7a5749)
 
-We talked about Common Voice, Localization, A-Frame.
+The second day once again began with another heartwarming opening keynote speech that focused on the main purposes of the conference and the goals achieved throughout day 1. Our students were soon once again faced with large crowds that really tested their people handling skills! Nonetheless they enjoyed handling and interacting with the crowd per usual. The second day was similar to the first and included seminars and other talks. The students were asked to stop at 4 pm in the evening and called for a group photo with all the volunteers. In fact our students also met other Mozilla volunteers and discussed their plans for upcoming Mozilla events.  
 
-**On day 1 of DevConf (2nd August 2019),**  we started with our booth setup which was taken care of by few of our Mozillians and the booth was setup and ready by 9am.
 
-It looked something like this after the setup.
+[![](https://camo.githubusercontent.com/191bff4ef05be1a180b8e5a304650a7cff7a51e6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b3675334b6a2d36695a5850435a586f)]
 
-![](https://miro.medium.com/max/1200/0*gsrAWDc7xA-xD87L)
+### Conclusion
 
-Just after the keynote which ended at 10:00am we started getting huge crowd of attendees and within a couple of hours our booth was turned to something like this
-![](https://miro.medium.com/max/1600/0*RlvQlsa1QZDHK630)
-
-We explained about Common Voice and Localization on first day and got most of the attendees to start contributing to Common Voice right there on the booth.  
-People enjoyed contributing to Common Voice and were interested to explore more about it, how it works and how they can access the data of common voice.
-
-The crowd kept on increasing on the booth, I had plans of attending a couple of talks but the crowd on the booth was so huge that I ended up spending most of the time on the booth talking to people about the products and initiatives of Mozilla and how they can get involved in Mozilla community.
-
-By the end of the day 1 we did around 92% of daily goal for Common Voice contributions
-
-We explained about Common Voice and Localization on first day and got most of the attendees to start contributing to Common Voice right there on the booth.  
-People enjoyed contributing to Common Voice and were interested to explore more about it, how it works and how they can access the data of common voice.
-
-The crowd kept on increasing on the booth, I had plans of attending a couple of talks but the crowd on the booth was so huge that I ended up spending most of the time on the booth talking to people about the products and initiatives of Mozilla and how they can get involved in Mozilla community.
-
-By the end of the day 1 we did around 92% of daily goal for Common Voice contributions
-
-![](https://miro.medium.com/max/1000/0*QS2Vd8JYgv-tGQFc)
-
-We wrapped up the booth at around 4.00pm on day 1 of DevConf.
-
-![](https://miro.medium.com/max/1600/0*1h3xJ7kliXwilzWI)
-
-**On day 2 of DevConf (3rd August 2019)**, we reached and did all the booth setup at 9.00am. Right after completion of Opening keynote, we started getting huge crowd at our booth from 10.00am.
-
-![](https://miro.medium.com/max/1600/0*IMi4N5XlgDx9IgVk)
-
-Second day was also similar to first day and most of the time was spent on the booth. We received a lot of Common Voice contributions from many attendees and we reached more than 100% of daily contributions for Common Voice on day 2.
-
-![](https://miro.medium.com/max/2000/0*QEL2FPCCiHAMhUpb)
-
-Second day we wrapped up the booth around 4.00pm and then we had a group photo with all the booth volunteers.
-
-At the end, we had a meeting with all the Mozilla Volunteers to discuss and share our feedback and we started thinking and planning for the next upcoming event for Mozilla Bangalore
-
-![](https://miro.medium.com/max/1600/0*K6u3Kj-6iZXPCZXo)
-
-Both the days were very interesting, we enjoyed a lot. We talked to people from different backgrounds which included students and professionals.  
-Since, this was our first time as a volunteer at booth, we were really amazed seeing the huge crowd who were interested to contribute to the community and were eager to know more on how to get more involved with the community.  
-We think this was our best developer event till now. We met a lot of Mozillians and Members from Red Hat and other open source community.
-
-Thanks to all volunteers, organizers, sponsors, speakers, etc for this awesome DevConf. I hope to see you all again in next DevConf.
+According to our students, both days were very interesting and they enjoyed a lot. They had the chance to speak to people from different backgrounds which included students and professionals. They even met a lot of Mozillians and Members from Red Hat and other open source community.
